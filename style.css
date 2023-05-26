@@ -1,0 +1,23 @@
+.flex-container{
+    display: flex;
+}
+.inline-flex-container{
+    display: inline-flex;
+    border: 2px solid #ccc;
+    margin-top: 10px;
+}
+.flex-item{
+    text-align: center;
+    font-size: 1.1em;
+    padding: 3.5em;
+    color: aliceblue;
+}
+.color1{
+    background-color: blueviolet;
+}
+.color2{
+    background-color: royalblue;
+}
+.color3{
+    background-color: yellowgreen;
+}
